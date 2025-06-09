@@ -1,2 +1,2 @@
 # scotpho-diabetes-shiny
-This repository contains to code to extract annual diabetes hospitalisations from SMR01 and publishes them in a small Shiny app. 
+This repository contains the code for publishing figures on hospitalisations due to diabetes in a small Shiny app. 
